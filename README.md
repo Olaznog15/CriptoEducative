@@ -99,16 +99,6 @@ El ejemplo anterior muestra el flujo básico: crear wallets, firmar una transacc
 
 ---
 
-## ✅ Posibles mejoras y próximos pasos
-
-- Añadir tests unitarios automatizados.
-- Implementar manejo de saldos (UTXO o modelo de cuentas) y checks de saldo antes de permitir transacciones.
-- Añadir persistencia en disco para la cadena y las transacciones.
-- Reemplazar RSA por ECDSA / Ed25519 para firmas más realistas.
-- Crear un CLI o API (Flask/FastAPI) para interactuar con la cadena.
-
----
-
 ## 📬 Contribuciones y licencia
 
 La idea del proyecto es puramente didactica, no tengo intencion de mantener ni ampliar el proyecto. Pudes usar la informacion de este proyecto como mejor consideres.
