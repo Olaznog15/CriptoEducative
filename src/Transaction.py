@@ -5,7 +5,7 @@ from cryptography.hazmat.primitives.asymmetric import utils
 import base64
 import hashlib
 import json
-from time import time
+import time
 
 
 class Transaction:
